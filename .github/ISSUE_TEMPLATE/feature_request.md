@@ -1,20 +1,22 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: "[FR]"
-labels: Feature Request
-assignees: JRS296
+name: Feature Request
+about: Suggest a new feature or improvement
+title: "[Feature] Short description"
+labels: 'feature'
+assignees: ''
+---
+
+## Description
+<!-- Describe the feature you'd like -->
+
+## Use Case
+<!-- Why is this feature useful? Who does it help? -->
+
+## Suggested Solution
+<!-- How might this feature be implemented? -->
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+⚠️ **Note:**  
+- For **documentation issues**, please open an issue in [Dijkstra-Edu/docs](https://github.com/Dijkstra-Edu/docs).  
+- For **discussions or proposals**, please create a [GitHub Discussion](../../discussions).

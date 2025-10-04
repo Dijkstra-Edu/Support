@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-Any message you'd like to share?
+Thank you for sharing your interest to join Dijkjstra! As soon as you create this issue, the system will auto close it, and send an invitation to you to join. For more information, kindly visit https://docs.dijkstra.org.in/guides/join-djikstra/
